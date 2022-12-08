@@ -8,4 +8,4 @@ Word valence is one of the principal dimensions in the organization of word mean
 
 
 ## Citation
-Liuzzi, A.G.,*, Meersmans, K.,*, Storms, G., , De Deyne, S.,, Dupont, P.,, Vandenberghe, R., (2022). Independency of coding for affective similarities and for word co-occurrences in temporal perisylvian neocortex. Neurobiology of Language (In press)
+Liuzzi, A.G.,* Meersmans, K.,* Storms, G., , De Deyne, S.,, Dupont, P.,, Vandenberghe, R., (2022). Independency of coding for affective similarities and for word co-occurrences in temporal perisylvian neocortex. Neurobiology of Language (In press)
